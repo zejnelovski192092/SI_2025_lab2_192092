@@ -5,7 +5,7 @@
 
 ### Control Flow Graph
 Фотографија од control flow graph-ot
-
+![Control Flow Graph за функцијата checkCart](SI_2025_lab2_192092_CFG.png)
 ### Цикломатска комплексност
 ---
 
